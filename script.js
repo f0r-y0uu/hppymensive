@@ -146,16 +146,16 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "gue arya gilang, pada hari ini hari Sabtu, 13 November 2021 dengan sepenuh hati mengucapkan", " ", "<b>happy mensive Yang ke - 3 bulan</b>", " ", "Kepada seluruh memb and all admin, semoga kelen sehat terus, tambah solid, dan bahagia selalu menyertai kelen. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Arya Gilang Irfansyah, Mas ganteng :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Gue Gilang, pada hari ini hari Sabtu, 13 November 2021 dengan sepenuh hati gue ngucapin", " ", "<b>happy mensive Yang ke - 3 bulan yaa buat kalian🎉🎊</b>", " ", "Kepada seluruh memb and all admin, Gue doain kalian semoga pada sehat terus dah yee, dan bahagia selalu menyertai kalian. Aamiin. Sekian surat pernyataan dari Gue", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Arya Gilang, Mas ganteng :)"],
   startDelay: 4000,
-  speed: 75,
+  speed: 150,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii cemua!!", "Happy Mensive ya...", " ", "Ciieee udah 3 bulan, perasaan baru kemaren rayain mensive wkwk ko cepet banget berlalu y, semoga di mensive yang sekarang kalian semua tamba solid, bisa jadi pribadi yang lebih baik lagi.", "maaf ye gue gabisa kasih surprise yang waah gitu. Cuma ini yang bisa gue kasih ke kalian, gue harap kalian suka dehh :)", "Sekali lagi, Happy mensive yaa. Semoga semua impian, keinginan, dan harapan kalian bisa tercapai, Aamiin."],
+  strings: ["Haii cemua!!", "Happy Mensive ya...", " ", "Ciieee udah 3 bulan, perasaan baru kemaren rayain mensive wkwk ko cepet banget berlalu y,tau tau udah mensive ke-3 bulan aj", "maaf ye gue gabisa kasih surprise yang waah gitu. Cuma ini yang bisa gue kasih ke kalian, gue harap kalian suka dehh :)", "Sekali lagi, Happy mensive yaa. Gue Doain Semoga semua impian, keinginan, dan harapan kalian bisa tercapai, Aamiin."],
   startDelay: 2000,
-  speed: 75,
+  speed: 150,
   waitUntilVisible: true
 }).go();
 
